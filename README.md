@@ -1,5 +1,9 @@
 # 🦹‍♂️SuperDrive Cloud ☁ Storage
 
+SuperDrive Cloud is a versatile cloud storage application offering simple file storage, note management, and password management functionalities. It provides users with the ability to upload, download, and remove files seamlessly. Additionally, users can manage text notes by adding, updating, and removing them within the application. The password management feature allows users to save, edit, and delete website credentials securely.
+
+## Features
+
 1. **Simple File Storage:** Upload/download/remove files
 2. **Note Management:** Add/update/remove text notes
 3. **Password Management:** Save, edit, and delete website credentials.  
